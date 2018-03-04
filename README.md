@@ -1,0 +1,1 @@
+##  javascript中console的应用
